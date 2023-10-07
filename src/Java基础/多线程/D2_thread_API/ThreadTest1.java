@@ -1,4 +1,4 @@
-package 多线程.D2_thread_API;
+package Java基础.多线程.D2_thread_API;
 
 /**
  *目标：掌握Thread的常用方法

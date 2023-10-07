@@ -1,9 +1,8 @@
-package 集合框架.D1_collection;
+package Java基础.集合框架.D1_collection;
 
 
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 
 /**
  * 认识collection体系的特点

@@ -1,4 +1,4 @@
-package 多线程.D6_synchronize_lock;
+package Java基础.多线程.D6_synchronize_lock;
 
 
 /**

@@ -1,4 +1,4 @@
-package 多线程.D2_thread_API;
+package Java基础.多线程.D2_thread_API;
 
 /**
  * 1、让子类继承多线程
