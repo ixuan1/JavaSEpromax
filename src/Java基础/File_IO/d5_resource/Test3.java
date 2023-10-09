@@ -31,6 +31,4 @@ public class Test3 {
             e.printStackTrace();
         }
     }
-
-
 }

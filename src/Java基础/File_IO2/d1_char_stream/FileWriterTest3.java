@@ -1,7 +1,6 @@
-package Java基础.File_IO2;
+package Java基础.File_IO2.d1_char_stream;
 
 import java.io.FileWriter;
-import java.io.IOException;
 
 /**
  * 目标：搞清楚字符输出流使用时的注意事项
@@ -24,7 +23,7 @@ public class FileWriterTest3 {
         fw.flush();
 
         fw.close(); //关闭流，关闭流包含刷新流操作！，关闭流了不能再使用流
-        
+
 
     }
 }

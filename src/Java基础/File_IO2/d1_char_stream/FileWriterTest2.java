@@ -1,4 +1,4 @@
-package Java基础.File_IO2;
+package Java基础.File_IO2.d1_char_stream;
 
 import java.io.FileWriter;
 import java.io.IOException;

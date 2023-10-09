@@ -1,6 +1,5 @@
-package Java基础.File_IO2;
+package Java基础.File_IO2.d1_char_stream;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.Reader;
 
@@ -34,7 +33,5 @@ public class FileReaderTest1 {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-
     }
 }
